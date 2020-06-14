@@ -1,0 +1,4 @@
+org.apache.bookkeeper.bookie.Bookie.java
+org.apache.bookkeeper.bookie.EntryLogger.java
+org.apache.tajo.client.QueryClientImpl.java
+org.apache.tajo.master.QueryManager.java
